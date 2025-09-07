@@ -1,0 +1,1 @@
+https://delta.io/blog/2023-01-25-delta-lake-small-file-compaction-optimize/
